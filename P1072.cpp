@@ -3,6 +3,7 @@ typedef long long ll;
 
 using namespace std;
 
+// Two Knights
 int main() {
     ll n;
     cin >> n;
